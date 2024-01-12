@@ -21,10 +21,6 @@ nav ul li{
     border-end-end-radius: 10px;
    }
 
-    
-    
-
-
 
 nav ul li a{
     text-decoration: none;
@@ -36,8 +32,7 @@ nav ul li a{
 
 
 header{
-    text-align: center;
-    
+    text-align: center; 
 }
 
 
@@ -50,46 +45,20 @@ footer{
 .formulario{
     text-align: center;
 }
+
 .portada{
-
     height: 500px;
-    
-    
-    
 }
-.imagenFondo{
-    background-image: initial;
-width: 100%;
 
-}
 .textoCarousel{
     color: white;
 background-color: black;
     
 }
-.caja{
-    height:auto;
-}
+
 
 body{
     font-family: 'Roboto', sans-serif;
-    
-    
-}
 
-.contenedorCategoria{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 300px 20px 300px 20px;
-    gap: 10px;
-    justify-content: center;
-    text-align: center;
 }
-
-.imgCategoria{
-    width: 300px;
-    height: 300px;
-    
-}
-
 
