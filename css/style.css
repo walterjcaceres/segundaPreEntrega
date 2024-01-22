@@ -47,6 +47,14 @@ footer{
     text-align: center;
 }
 
+.formu{
+    padding: 10px;
+ 
+ background-color: rgb(232, 249, 255);
+
+
+}
+
 .portada{
     height: 500px;
 }
@@ -56,6 +64,7 @@ footer{
 background-color: black;
     
 }
+
 
 
 body{
